@@ -1,8 +1,8 @@
 diff --git a/activity.py b/activity.py
-index 312f4b1..fa82bf5 100644
+index eab2174..0963725 100644
 --- a/activity.py
 +++ b/activity.py
-@@ -54,6 +54,8 @@ from sugar3.activity.widgets import StopButton
+@@ -55,6 +55,8 @@ from sugar3.activity.widgets import StopButton
  
  from videos import EXERCISES, DANCES
  
@@ -10,8 +10,8 @@ index 312f4b1..fa82bf5 100644
 +
  Gst.init(None)
  
- class PaddedVBox(Gtk.VBox):
-@@ -242,9 +244,9 @@ class VideoButton(Gtk.EventBox):
+ 
+@@ -250,9 +252,9 @@ class VideoButton(Gtk.EventBox):
          # self.window.set_cursor(Gdk.Cursor.new(Gdk.HAND2))
          self.get_window().set_cursor(Gdk.Cursor(Gdk.CursorType.HAND2))
  

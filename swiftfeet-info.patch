@@ -1,11 +1,11 @@
 diff --git a/activity/activity.info b/activity/activity.info
-index 652beb4..7b2ffcd 100644
+index f8a3b41..86e1d6a 100644
 --- a/activity/activity.info
 +++ b/activity/activity.info
 @@ -1,7 +1,17 @@
  [Activity]
  name = Swift Feet
- activity_version = 1
+ activity_version = 2
 -bundle_id = ca.tbsf.SwiftFeet
 +release_date = 2020-08-22
 +bundle_id = org.sugarlabs.SwiftFeet
