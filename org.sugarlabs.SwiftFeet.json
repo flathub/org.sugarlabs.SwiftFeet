@@ -26,7 +26,12 @@
                 {
                     "type": "git",
                     "url": "https://github.com/sugarlabs/swiftfeet-activity.git",
-                    "commit": "057ca86f5bca25c30ffe1f1914c0a80b85955a7c"
+                    "tag": "v2",
+                    "commit": "488d346cf40009055d4f648a1c15e2faba252a14",
+                    "x-checker-data": {
+                        "type": "git",
+                        "tag-pattern": "^v([\\d.]+)$"
+                    }
                 },
                 {
                     "type": "patch",
